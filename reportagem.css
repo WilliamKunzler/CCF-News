@@ -1,0 +1,130 @@
+
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@1&family=Inknut+Antiqua&family=Inter:wght@600&family=Jost&family=Open+Sans&family=Poppins&family=Roboto+Mono:wght@300&family=Roboto:wght@100;500&display=swap');
+
+
+
+
+* {
+   margin: 0;
+   padding: 0;
+}
+
+main {
+   margin-inline: 22%;
+}
+
+.navbar {
+   background-color: rgb(77, 77, 250);
+   width: 100%;
+   height: 13vh;
+
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+
+}
+
+.navbar img {
+   width: 100px; height: 100px;
+}
+
+h3, #edit, .navbar img {
+   color: white;
+   margin-inline: 9%;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-decoration: none;
+}
+
+
+hr {
+   height: 1px;
+   background-color: black;
+}
+
+h1, h2 {
+   font-family: Arial, Helvetica, sans-serif;
+   margin-top: 5vh;
+}
+
+#icones {
+   text-align: end;
+}
+
+#logo-whatsapp {
+   color: rgb(12, 208, 12);
+}
+
+#mail-outline {
+   color: red;
+}
+
+
+
+ion-icon{
+   width: 20px; height: 20px;
+   margin-inline: 0.2em;
+   margin-top: 2vh;
+}
+
+p {
+   font-size: 18px;
+   margin-top: 2vh;
+   font-family:Arial, Helvetica, sans-serif;
+}
+
+.imagens{
+   width: 100%;
+   text-align: center;
+   margin-top: 6vh;
+   margin-bottom: 5vh;
+   
+ }
+ .imagens  img {
+   width: 80%;
+ }
+
+ .figura {
+   font-size: 13px;
+   font-family:Arial, Helvetica, sans-serif;
+ }
+
+ footer {
+   margin-top: 15vh;
+   width: 100%;
+   background-color:rgb(77, 77, 250);
+   height: 20vh;
+
+ }
+
+ .coment {
+   display: flex;
+   
+ }
+
+ .line {
+   background-color: blue;
+   border-radius: 5px;
+   margin-inline: 3%;
+   color: blue;
+ }
+
+ #donos {
+   width: 100%;
+   margin-top: 6vh;
+   display: flex;
+   justify-content: center;
+
+ }
+
+ #donos img {
+   width: 50px; height: 50px;
+   text-align: center;
+   margin-inline: 1em;
+ }
+
+ .nome {
+   font-size: 15px;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+  
